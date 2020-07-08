@@ -28,7 +28,7 @@ ActiveRecord::Schema.define(version: 2020_07_08_181706) do
     t.datetime "updated_at", precision: 6, null: false
     t.index ["user_id"], name: "index_posts_on_user_id"
   end
-  
+
   create_table "users", force: :cascade do |t|
     t.string "email"
     t.string "password"
