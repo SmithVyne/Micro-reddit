@@ -2,10 +2,10 @@
 Built-with: Ruby on Rails
 
 # Set-Up instructions
-*Setup Ruby and Ruby-on-Rails on your computer
-Clone this repository by running `git clone https://github.com/SmithVyne/Micro-reddit.git` and cd into the directory
-*Run `bundle install` to install the necessary ruby gems
-*Run `rails console` to start-up the rails console environment where you can interact with the application
+* Setup Ruby and Ruby-on-Rails on your computer
+* Clone this repository by running `git clone https://github.com/SmithVyne/Micro-reddit.git` and cd into the directory
+* Run `bundle install` to install the necessary ruby gems
+* Run `rails console` to start-up the rails console environment where you can interact with the application
 
 
 We created a micro-Reddit application where users can:
